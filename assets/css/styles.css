@@ -200,3 +200,11 @@ ul {
   }
 }
 
+.contact-icon {
+  color: rgb(59,153,224);
+}
+
+* {
+  font-family: inherit;
+}
+
